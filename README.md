@@ -13,8 +13,9 @@
 <br>
 
 <p align="center">
-        This is a place for creatives that want to learn about programming and have some fun in the process. Coding made simple 😎  Hosted by Matt Qualley - a Product Designer, wanna-be musician, and overall nerd who enjoys hacking things together. 🤓
-        Let's journey onward to the wonderful world of "Oh S#*t. . I forgot a semi-colon"
+        This is a place for creatives that want to learn about programming and have some fun in the process. Coding made simple 😎 <br>
+        Hosted by <a target="_blank" href="https://www.linkedin.com/in/mattqualley/">Matt Qualley</a> - Sr. Product Designer, wanna-be musician, and overall nerd who enjoys hacking things together.
+        Let's journey onward to the wonderful world of...  <em><strong>"Oh S#*t. I forgot a semi-colon"</strong></em>
 </p>
 
 
